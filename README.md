@@ -1,6 +1,8 @@
 <p align="center">
   <strong>Acer Aspire 5 15 - Model A515-48M Linux Setup Guide</strong>
 
+I will cover `DEBIAN` and `UBUNTU` each one flawlessly working, so for me this is a neat laptop for Linux.
+
 This repository provides a comprehensive guide to installing and configuring Linux (Debian) on the Acer Aspire 5 15, Model A515-48M. This model features a 15.6" QHD screen, Radeon Graphics, Ryzen 7 7730U, 16 GB RAM, and a 512 GB SSD.
 
 </p>
